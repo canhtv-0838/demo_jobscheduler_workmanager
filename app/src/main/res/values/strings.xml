@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">demo_jobscheduler_workmanager</string>
+    <string name="job_scheduled">Job Scheduled, will run when the constraints are met</string>
+    <string name="job_running">Your Job running!</string>
+    <string name="job_stop">Your Job stop!</string>
+    <string name="jobs_canceled">Jobs Canceled</string>
+    <string name="job_service_notification_title">Job Service Title</string>
+    <string name="job_service_notification_message">Job Service Message</string>
+    <string name="job_service_notification_channel_id">Job Service notification channel id</string>
+    <string name="job_service_notification_channel_name">Job Service notification channel name</string>
+    <string name="job_service_notification_channel_description">Job Service notification channel description</string>
+
+    <string name="work_manager_notification_title">Work Manager Title</string>
+    <string name="work_manager_notification_message">Work Manager Message</string>
+    <string name="work_manager_notification_channel_id">Work Manager notification channel id</string>
+    <string name="work_manager_notification_channel_name">Work Manager notification channel name</string>
+    <string name="work_manager_notification_channel_description">Work Manager notification channel description</string>
+</resources>
